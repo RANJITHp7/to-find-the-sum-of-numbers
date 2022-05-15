@@ -7,7 +7,7 @@ sum(int n){ // function used to find the sum
 }
 int main(){
 	int i;
-	printf("enter the number:");
+	printf("input number:");
 	scanf("%d",&i);
-	printf("Sum of digits is %d",sum(i)); 
+	printf("Sum of digits : %d",sum(i)); 
 }
